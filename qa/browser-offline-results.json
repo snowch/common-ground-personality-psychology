@@ -1,0 +1,41 @@
+{
+  "release": "1a3b7dc2feb682d0",
+  "files": 189,
+  "bytes": 85234489,
+  "pause_resume_reload": "passed",
+  "offline_chapters_narration_written_exercises": 10,
+  "all_saved_files_retrievable_offline": "passed",
+  "audio_ranges": [
+    {
+      "status": 206,
+      "size": 32,
+      "range": "bytes 0-31/115962"
+    },
+    {
+      "status": 206,
+      "size": 115930,
+      "range": "bytes 32-115961/115962"
+    },
+    {
+      "status": 206,
+      "size": 16,
+      "range": "bytes 115946-115961/115962"
+    },
+    {
+      "status": 416,
+      "size": 0,
+      "range": "bytes */115962"
+    }
+  ],
+  "browser_restart_offline": "passed",
+  "companions_research_pdfs": "passed",
+  "remove_retains_progress_and_unrelated_cache": "passed",
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "axe": "passed",
+  "js_errors": []
+}

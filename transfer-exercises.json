@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "A student is reserved in seminars and lively with friends. Which interpretation is best supported?",
+    "options": [
+      "The accounts must disagree about the student’s real personality.",
+      "The student has changed personality between the two settings.",
+      "A broad tendency may coexist with predictable variation across contexts."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Different contexts can evoke different states. Both reports may be accurate observations.",
+      "A difference between settings does not by itself demonstrate an enduring change over time.",
+      "Sample relevant occasions in both settings before judging the person’s typical level or context-specific pattern."
+    ],
+    "context": "Several classmates describe a student’s behavior in two different kinds of group; no formal assessment has been conducted.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "2": {
+    "prompt": "A volunteer scores lower on extraversion. Which conclusion is justified by that score alone?",
+    "options": [
+      "The scale places their reported extraversion lower relative to its reference group.",
+      "The volunteer will dislike every public-facing task.",
+      "The volunteer has a social anxiety disorder."
+    ],
+    "correct": 0,
+    "feedback": [
+      "Interpret the result using the instrument, measurement uncertainty and relevant comparison group. It does not settle preferences or clinical status.",
+      "Task experience, goals, support and context also matter. The broad score does not establish an absolute preference.",
+      "A broad personality score is not a clinical assessment or a diagnosis."
+    ],
+    "context": "A volunteer completes a properly scored broad trait questionnaire. No clinical interview or task-specific assessment has been done.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "3": {
+    "prompt": "A questionnaire gives very similar scores twice. What can that show?",
+    "options": [
+      "It measures the intended trait accurately for every purpose.",
+      "It can replace a relevant work-sample assessment.",
+      "Its scores were consistent across those occasions, while validity remains a separate question."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Test–retest consistency does not by itself show what the score represents or which uses it supports.",
+      "Reliability does not establish that the questionnaire predicts the task outcome better than direct evidence.",
+      "The repeated scores provide one kind of reliability evidence. Further evidence is needed for the intended interpretation and use."
+    ],
+    "context": "An organization repeats a new questionnaire after a suitable interval but has not examined its relation to any relevant outcomes.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "4": {
+    "prompt": "A group’s average conscientiousness rises while the order of people remains similar. What follows?",
+    "options": [
+      "The findings contradict each other.",
+      "Mean-level change can coexist with rank-order stability.",
+      "Every member must have changed by the same amount."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The findings concern different features of the data: absolute level and relative ordering.",
+      "A shared upward trend can leave relative positions similar. Individual amounts and directions of change may still differ.",
+      "An average increase does not require identical or even uniformly positive individual changes."
+    ],
+    "context": "An invented longitudinal example uses the same appropriate measure at two time points and reports both the group average and relative ordering.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "5": {
+    "prompt": "What does a heritability estimate of a trait refer to?",
+    "options": [
+      "The fraction of each person’s trait caused by genes.",
+      "The probability that someone cannot change the trait.",
+      "Variation among people in the studied population and conditions, under a model."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Heritability does not divide a particular person into genetic and environmental percentages.",
+      "The estimate does not directly measure individual changeability or intervention effects.",
+      "Interpret the population, conditions, measure and model assumptions before applying the estimate."
+    ],
+    "context": "A research summary reports heritability for a measured trait. The question concerns what the statistic means, not a particular numerical value.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "6": {
+    "prompt": "A trainee feels more capable after supervised practice on one task. What conclusion is warranted?",
+    "options": [
+      "The trainee’s entire personality has changed.",
+      "Task-specific self-efficacy may have changed; broader transfer needs separate evidence.",
+      "The trainee can now perform any related task without support."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A task-specific belief change is not sufficient evidence for a broad trait change.",
+      "Compare the relevant belief and actual performance. Test new tasks before claiming generalization.",
+      "Confidence and one successful task do not establish competence across unfamiliar demands."
+    ],
+    "context": "An invented training record includes supervised practice and a task-specific confidence rating, but no broad personality assessment.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "7": {
+    "prompt": "Which statement best reflects autonomous motivation?",
+    "options": [
+      "I endorse this task’s purpose, even though parts are difficult.",
+      "I am doing this only because I expect criticism if I stop.",
+      "I work alone, so my motivation must be autonomous."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A personally endorsed purpose can support autonomous motivation even when the activity is not enjoyable throughout.",
+      "Anticipated criticism illustrates pressure or controlled motivation in this example.",
+      "Working alone does not determine whether a person experiences the action as freely endorsed."
+    ],
+    "context": "These are invented statements illustrating motivational distinctions; they are not a diagnostic questionnaire.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "8": {
+    "prompt": "A person’s self-story and task record differ. What should an interpretation do?",
+    "options": [
+      "Discard the person’s account because records are objective.",
+      "Assume the story reveals the deeper truth behind every event.",
+      "Examine what each source measures and why the accounts differ."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Records have their own scope and limits, while the narrative provides information about meaning.",
+      "A meaningful story does not automatically establish the facts or causes of every event.",
+      "Compare definitions, periods, context and sources. The disagreement can be informative without treating either account as complete."
+    ],
+    "context": "A volunteer describes rarely finishing projects, while a limited café record lists several completed tasks.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "9": {
+    "prompt": "A study finds different group averages on a validated scale. What follows for one new person?",
+    "options": [
+      "Their score and behavior still need individual evidence.",
+      "Their nationality determines which tasks suit them.",
+      "The average difference explains the cause of their personality."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A group distribution does not specify an individual’s position, and context-specific behavior requires further evidence.",
+      "Group membership cannot determine an individual’s capacities or preferences.",
+      "An average difference alone does not establish a causal explanation or an individual score."
+    ],
+    "context": "Assume the study established adequate measurement comparability for its sampled groups, while retaining normal within-group variation.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  },
+  "10": {
+    "prompt": "Which plan best uses personality knowledge responsibly?",
+    "options": [
+      "Offer relevant practice, ask preferences and review performance alongside any valid optional information.",
+      "Exclude lower-extraversion volunteers from every visitor-facing role.",
+      "Publish everyone’s scores so the team can assign roles informally."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The plan uses task-relevant evidence and allows development while keeping any additional information proportionate and appropriately handled.",
+      "A broad tendency does not justify a universal exclusion from a role.",
+      "Public scores create consequences and privacy issues without establishing validity for the decision."
+    ],
+    "context": "A neighborhood group is assigning volunteer tasks, with no need for clinical assessment or a high-stakes personality-testing program.",
+    "reasoningPrompt": "Explain your choice. What evidence supports it, and what would it leave uncertain?",
+    "revision": "intro-course-v1"
+  }
+}

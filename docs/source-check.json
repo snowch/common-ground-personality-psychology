@@ -1,0 +1,227 @@
+{
+  "method": "Crossref DOI metadata and HTTP checks of open introductory pages, 19 November 2026. Selected sources; not a systematic review.",
+  "citations": [
+    {
+      "course": "personality",
+      "chapter": "1",
+      "doi": "10.1037/0022-3514.80.6.1011",
+      "title": [
+        "Toward a structure- and process-integrated view of personality: Traits as density distributions of states."
+      ],
+      "year": [
+        [
+          2001
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "2",
+      "doi": "10.1037/pspp0000096",
+      "title": [
+        "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power."
+      ],
+      "year": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "3",
+      "doi": "10.1037/h0040957",
+      "title": [
+        "Construct validity in psychological tests."
+      ],
+      "year": [
+        [
+          1955,
+          7
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "4",
+      "doi": "10.1037/0033-2909.132.1.1",
+      "title": [
+        "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies."
+      ],
+      "year": [
+        [
+          2006,
+          1
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "5",
+      "doi": "10.1037/bul0000017",
+      "title": [
+        "Heritability of personality: A meta-analysis of behavior genetic studies."
+      ],
+      "year": [
+        [
+          2015
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "6",
+      "doi": "10.1037/0033-295X.102.2.246",
+      "title": [
+        "A cognitive-affective system theory of personality: Reconceptualizing situations, dispositions, dynamics, and invariance in personality structure."
+      ],
+      "year": [
+        [
+          1995
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "7",
+      "doi": "10.1037/0003-066X.55.1.68",
+      "title": [
+        "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being."
+      ],
+      "year": [
+        [
+          2000
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "8",
+      "doi": "10.1177/0963721413475622",
+      "title": [
+        "Narrative Identity"
+      ],
+      "year": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "9",
+      "doi": "10.1126/sciadv.aaw5226",
+      "title": [
+        "Challenges to capture the big five personality traits in non-WEIRD populations"
+      ],
+      "year": [
+        [
+          2019,
+          7,
+          5
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": "10",
+      "doi": "10.1111/j.1745-6916.2007.00047.x",
+      "title": [
+        "The Power of Personality: The Comparative Validity of Personality Traits, Socioeconomic Status, and Cognitive Ability for Predicting Important Life Outcomes"
+      ],
+      "year": [
+        [
+          2007,
+          12
+        ]
+      ]
+    },
+    {
+      "course": "personality",
+      "chapter": 6,
+      "doi": "10.1037/0033-295X.84.2.191",
+      "title": [
+        "Self-efficacy: Toward a unifying theory of behavioral change."
+      ],
+      "year": [
+        [
+          1977
+        ]
+      ]
+    }
+  ],
+  "open_readings": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-1-what-is-personality",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-4-learning-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-5-humanistic-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-6-biological-approaches",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-8-cultural-understandings-of-personality",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/11-9-personality-assessment",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/2-2-approaches-to-research",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/7-2-language",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/7-3-problem-solving",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-1-how-memory-functions",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-3-problems-with-memory",
+      "status": 200,
+      "title_found": true
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/8-4-ways-to-enhance-memory",
+      "status": 200,
+      "title_found": true
+    }
+  ]
+}

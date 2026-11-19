@@ -1,0 +1,11 @@
+{
+  "chapters": 10,
+  "pages": 90,
+  "expanded_research": 40,
+  "svg_text_bounds": "passed",
+  "feedback_variants": 60,
+  "axe_states": 60,
+  "writing_restore_and_escaping": "passed",
+  "case_and_companions": "passed",
+  "js_errors": []
+}

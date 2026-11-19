@@ -1,0 +1,197 @@
+{
+  "1": {
+    "claims": [
+      "Distinguish a trait description from a temporary state, and identify observations needed before inferring a general tendency.",
+      "Trait research can find stable differences between people alongside large variation within people. Aggregating relevant occasions often improves the estimate of a broad tendency."
+    ],
+    "note": "Trait research can find stable differences between people alongside large variation within people. Aggregating relevant occasions often improves the estimate of a broad tendency.\n\nExperience-sampling studies depend on who participates, how states are defined and which situations are sampled. A distribution of self-reports is not a complete explanation of a person’s motives or an immutable essence.",
+    "sources": [
+      {
+        "title": "Fleeson (2001), Toward a structure- and process-integrated view of personality",
+        "url": "https://doi.org/10.1037/0022-3514.80.6.1011",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: What is personality",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-1-what-is-personality",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Interpret a broad trait dimension without turning a score into a fixed type, diagnosis or moral judgment.",
+      "The Big Five have extensive support as a broad descriptive framework, but they are not the only personality model. Facet structures, translations and cultural coverage vary."
+    ],
+    "note": "The Big Five have extensive support as a broad descriptive framework, but they are not the only personality model. Facet structures, translations and cultural coverage vary.\n\nA trait association is an average pattern across a sample, with substantial overlap between people. A broad score cannot settle what one person can learn, which role they must occupy or how they will behave on a particular day.",
+    "sources": [
+      {
+        "title": "Soto and John (2017), The next Big Five Inventory (BFI-2)",
+        "url": "https://doi.org/10.1037/pspp0000096",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Trait theorists",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Evaluate reliability, validity and reference groups before interpreting or using a personality score.",
+      "Psychometric evidence belongs to a particular instrument, scoring procedure, population and use. A short scale may serve some research purposes while leaving too much uncertainty for individual decisions."
+    ],
+    "note": "Psychometric evidence belongs to a particular instrument, scoring procedure, population and use. A short scale may serve some research purposes while leaving too much uncertainty for individual decisions.\n\nReliability is not proof of validity, and a statistical association does not establish a cause. Interpreting a score also requires considering accessibility, language, culture, consent and the practical consequences of error.",
+    "sources": [
+      {
+        "title": "Cronbach and Meehl (1955), Construct validity in psychological tests",
+        "url": "https://doi.org/10.1037/h0040957",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Personality assessment",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-9-personality-assessment",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Distinguish rank-order stability from average change, and identify evidence needed for an individual change claim.",
+      "Meta-analyses find mean-level patterns in adult traits alongside substantial individual variation. Their estimates depend on samples, measures, follow-up intervals and which studies are available."
+    ],
+    "note": "Meta-analyses find mean-level patterns in adult traits alongside substantial individual variation. Their estimates depend on samples, measures, follow-up intervals and which studies are available.\n\nLongitudinal association does not automatically establish that a particular life event caused a trait change. Selection, socialization, measurement changes and other events require consideration.",
+    "sources": [
+      {
+        "title": "Roberts, Walton and Viechtbauer (2006), Patterns of mean-level change in personality traits across the life course",
+        "url": "https://doi.org/10.1037/0033-2909.132.1.1",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Trait theorists",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-7-trait-theorists",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Interpret heritability as a population estimate, distinguish it from individual causation, and explain why genetic influence does not imply immutability.",
+      "Behavior-genetic research supports genetic contributions to many personality differences, alongside environmental influences and measurement uncertainty. Estimates depend on design and assumptions."
+    ],
+    "note": "Behavior-genetic research supports genetic contributions to many personality differences, alongside environmental influences and measurement uncertainty. Estimates depend on design and assumptions.\n\nHeritability within a population cannot explain a difference between populations by itself, establish an individual cause or determine how much a particular intervention will help. The café scenario illustrates those limits without assigning a numerical estimate.",
+    "sources": [
+      {
+        "title": "Vukasović and Bratko (2015), Heritability of personality: A meta-analysis of behavior genetic studies",
+        "url": "https://doi.org/10.1037/bul0000017",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Biological approaches",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-6-biological-approaches",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Construct an if–then pattern and distinguish a belief about capability from a broad trait description.",
+      "Social-cognitive models complement broad trait descriptions by examining processes and situation-specific patterns. Evidence for a general trait structure does not remove the value of studying goals and beliefs."
+    ],
+    "note": "Social-cognitive models complement broad trait descriptions by examining processes and situation-specific patterns. Evidence for a general trait structure does not remove the value of studying goals and beliefs.\n\nAn observational if–then pattern does not by itself establish a causal mechanism. Beliefs, skills, task selection and responses from others can covary, so interventions need appropriate comparisons.",
+    "sources": [
+      {
+        "title": "Mischel and Shoda (1995), A cognitive-affective system theory of personality",
+        "url": "https://doi.org/10.1037/0033-295X.102.2.246",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Learning approaches",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-4-learning-approaches",
+        "kind": "Open introductory textbook."
+      },
+      {
+        "title": "Bandura (1977), Self-efficacy: Toward a unifying theory of behavioral change",
+        "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+        "kind": "Scholarly review or theoretical paper; publisher access may vary."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Distinguish an observed action from its possible motives, and design support that checks the person’s goals and constraints.",
+      "Research on motivation examines relations between need support, motivation and outcomes across contexts. Associations and intervention effects depend on measures, setting and design."
+    ],
+    "note": "Research on motivation examines relations between need support, motivation and outcomes across contexts. Associations and intervention effects depend on measures, setting and design.\n\nTheories of motivation do not authorize inferring private motives from a trait score. The café story provides explicit fictional reasons so the distinction can be examined; real people may have mixed or uncertain reasons.",
+    "sources": [
+      {
+        "title": "Ryan and Deci (2000), Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Humanistic approaches",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-5-humanistic-approaches",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Distinguish a trait description, self-evaluation and life narrative, while avoiding a single-story explanation of a person.",
+      "Narrative-identity research studies how people construct meaning and continuity in their lives. Associations between narrative themes and well-being do not establish that imposing a preferred story causes improvement."
+    ],
+    "note": "Narrative-identity research studies how people construct meaning and continuity in their lives. Associations between narrative themes and well-being do not establish that imposing a preferred story causes improvement.\n\nLife narratives are shaped by culture, audience and circumstances. A coherent narrative is not necessarily complete, and a fragmented account is not by itself a diagnosis.",
+    "sources": [
+      {
+        "title": "McAdams and McLean (2013), Narrative identity",
+        "url": "https://doi.org/10.1177/0963721413475622",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Humanistic approaches",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-5-humanistic-approaches",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Identify a culturally uncertain score comparison and distinguish group distributions from claims about individuals.",
+      "Cross-cultural research finds both useful commonalities and important measurement challenges. The replicability of a broad structure or item relation can vary with population, language, education and method."
+    ],
+    "note": "Cross-cultural research finds both useful commonalities and important measurement challenges. The replicability of a broad structure or item relation can vary with population, language, education and method.\n\nA questionnaire validated in one setting should not be assumed equivalent everywhere. Conversely, a failed comparison does not establish that people lack personality traits; it may reveal a problem in the measure or its administration.",
+    "sources": [
+      {
+        "title": "Laajaj and colleagues (2019), Challenges to capture the Big Five personality traits in non-WEIRD populations",
+        "url": "https://doi.org/10.1126/sciadv.aaw5226",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Cultural understandings of personality",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-8-cultural-understandings-of-personality",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Evaluate the relevance and uncertainty of a personality-based prediction, and propose a fairer decision using direct evidence and consent.",
+      "Research links personality traits with outcomes across life domains, but predictive strength, causality and practical value vary with the outcome and comparison. A group-level association is not an individual guarantee."
+    ],
+    "note": "Research links personality traits with outcomes across life domains, but predictive strength, causality and practical value vary with the outcome and comparison. A group-level association is not an individual guarantee.\n\nThis course is an introduction to evidence-based interpretation. It does not administer a validated personality assessment, diagnose a condition or certify someone to use tests for high-stakes decisions. Its written cases assess reasoning, not a person’s personality.",
+    "sources": [
+      {
+        "title": "Roberts and colleagues (2007), The power of personality: The comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes",
+        "url": "https://doi.org/10.1111/j.1745-6916.2007.00047.x",
+        "kind": "Original research or scholarly review; publisher access may vary."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Personality assessment",
+        "url": "https://openstax.org/books/psychology-2e/pages/11-9-personality-assessment",
+        "kind": "Open introductory textbook."
+      }
+    ]
+  }
+}

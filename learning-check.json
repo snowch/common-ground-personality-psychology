@@ -1,0 +1,80 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The community theatre",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes first. Allow about twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answer. Compare your reasoning with the suggestions after attempting the tasks.",
+  "paragraphs": [
+    "A community theatre assigns roles for a new production. An organizer wants to use a short online personality quiz to select front-of-house volunteers. The quiz report calls one volunteer an introvert and another a natural leader, but gives no scoring or validation information.",
+    "A volunteer is quiet in the first full-cast meeting and animated when explaining familiar lighting equipment to two people. Another describes being disorganized years ago but now keeps a detailed rehearsal calendar. The organizer treats the first case as inconsistency and the second as proof that the theatre changed the person’s personality.",
+    "Two volunteers stay late. One enjoys mastering a technical task; the other says leaving would bring criticism. A translated version of the quiz is also used with a partner group abroad, and the organizers compare average scores without examining item meaning or response scales.",
+    "A volunteer tells the story that they never finish anything, although a limited task record contains several completed projects. Someone argues that personality is heritable, so neither training nor a clearer schedule will help. The team needs a fair plan for role allocation, practice and reviewing evidence."
+  ],
+  "tasks": [
+    {
+      "title": "Describe a pattern without imposing a type",
+      "chapters": [
+        1,
+        2,
+        6
+      ],
+      "prompt": "Interpret the quiet meeting and animated equipment discussion. Propose a trait-level and an if–then account, and state what repeated evidence could distinguish them.",
+      "answer": "A lower typical extraversion level can coexist with talkative states. An if–then pattern might connect speaking with familiar technical topics and small groups. Sample repeated comparable occasions across those features, ask about goals and self-efficacy and retain exceptions. Neither two observations nor a broad label establish a fixed type or clinical condition."
+    },
+    {
+      "title": "Evaluate the quiz and group comparison",
+      "chapters": [
+        2,
+        3,
+        9
+      ],
+      "prompt": "List the measurement evidence needed before using the quiz or comparing translated scores. Explain why a group mean cannot settle one volunteer’s suitability.",
+      "answer": "Identify the construct, instrument, scoring, reliability, validity for this use and relevant norms. Translation needs evidence of comparable item meaning and scale functioning, not just matching words. Group means contain variation and do not identify an individual’s score, skill or preferences. A validated instrument elsewhere does not validate this short quiz."
+    },
+    {
+      "title": "Examine change and inheritance",
+      "chapters": [
+        4,
+        5
+      ],
+      "prompt": "Distinguish individual change, group mean change and relative stability. Identify alternatives to the theatre causing change, and explain why heritability does not settle whether training helps.",
+      "answer": "Repeated comparable measures are needed for individual change. A group mean can rise while relative ranks remain similar. Existing tendencies may influence role entry; other life events and measurement changes can contribute. Heritability describes variation in specified populations and conditions under a model, not an individual percentage or the effect of a new intervention."
+    },
+    {
+      "title": "Explore motives and self-story",
+      "chapters": [
+        7,
+        8
+      ],
+      "prompt": "Explain why late work does not reveal one motive. Propose respectful questions about endorsement, pressure, constraints and the unfinished-project narrative.",
+      "answer": "The same hours can reflect enjoyment, a valued purpose or pressure. Ask what each person wants, what they feel able to choose and what constraints apply. Explore a specific unfinished project alongside completed examples and context, without demanding a positive story. A narrative describes meaning but is not automatically a complete task-frequency record."
+    },
+    {
+      "title": "Make a fair, revisable decision",
+      "chapters": [
+        3,
+        6,
+        10
+      ],
+      "prompt": "Recommend a role-allocation process. Specify direct evidence, preferences, learning opportunities and what any personality measure would need to add.",
+      "answer": "Define relevant role behaviors, ask preferences, offer appropriate practice and assess a low-stakes work sample. Consider support and availability. Any optional personality information needs evidence of incremental validity, suitable consent and proportionate handling. Review the decision as performance, interest and circumstances change; avoid permanent exclusions based on a broad trait score."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Relevant distinctions",
+      "strong": "Uses the relevant concepts accurately and separates observations from interpretations.",
+      "developing": "Adds labels without explaining what they mean or how they fit the case."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Names competing accounts and a comparison or source that could distinguish them.",
+      "developing": "Treats a plausible story, score or association as a settled cause."
+    },
+    {
+      "title": "Limits and application",
+      "strong": "Makes a proportionate recommendation and states uncertainty, context and what would change it.",
+      "developing": "Generalizes beyond the sample or imposes a fixed conclusion on an individual."
+    }
+  ],
+  "followup": "Return tomorrow and again in about a week with a new example. Compare the quality of your reasoning rather than counting pages visited. This self-check does not certify mastery or demonstrate all real-world transfer."
+}

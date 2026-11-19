@@ -1,0 +1,630 @@
+{
+  "c01s03": {
+    "type": "compare",
+    "title": "A tendency and an occasion",
+    "left": [
+      "Trait",
+      "Typical pattern over time",
+      "A qualified summary"
+    ],
+    "right": [
+      "State",
+      "Expression at this moment",
+      "Sensitive to context"
+    ],
+    "caption": "A broad tendency can coexist with different states. Neither description alone explains the cause."
+  },
+  "c01s03b": {
+    "type": "distribution",
+    "title": "One person can vary across occasions",
+    "caption": "This conceptual distribution represents variation in one person’s states, not data from a measured volunteer. A typical level does not erase the range."
+  },
+  "c01s04": {
+    "type": "compare",
+    "title": "Different demands, different expression",
+    "left": [
+      "Large meeting",
+      "Public turn-taking",
+      "Several interruptions"
+    ],
+    "right": [
+      "Small technical talk",
+      "Familiar topic",
+      "Time to explain"
+    ],
+    "caption": "The contexts offer different demands and opportunities. Repeated observations are needed to test the proposed pattern."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "Study the pattern at two levels",
+    "items": [
+      [
+        "Between people",
+        "Different typical levels"
+      ],
+      [
+        "Within a person",
+        "Variation across occasions"
+      ],
+      [
+        "Explanation",
+        "Investigate the processes"
+      ]
+    ],
+    "caption": "Stable differences and state variability are compatible; a distribution is not a complete causal account."
+  },
+  "c02s03": {
+    "type": "dimensions",
+    "title": "Dimensions allow degrees, not boxes",
+    "caption": "The five unscored lines represent broad dimensions, not a real person’s profile or a self-assessment. Instrument definitions and norms matter."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Similar total, different components",
+    "left": [
+      "Maya",
+      "Plans shifts carefully",
+      "Desk can be cluttered"
+    ],
+    "right": [
+      "Leo",
+      "Tools kept in order",
+      "Planning can be delayed"
+    ],
+    "caption": "Narrower facets can differ within a similar broad description. No scores are assigned in this fictional comparison."
+  },
+  "c02s04": {
+    "type": "compare",
+    "title": "Do not turn a dimension into a diagnosis",
+    "left": [
+      "Lower extraversion",
+      "A broad measured tendency",
+      "Not necessarily anxiety"
+    ],
+    "right": [
+      "Negative emotionality",
+      "A broad measured tendency",
+      "Not a clinical diagnosis"
+    ],
+    "caption": "Trait descriptions do not establish a disorder, moral worth or a universal role preference."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "A framework is not a whole person",
+    "items": [
+      [
+        "Domains",
+        "Broad descriptive organization"
+      ],
+      [
+        "Facets",
+        "Narrower, scale-dependent detail"
+      ],
+      [
+        "Application",
+        "Relevant context and evidence"
+      ]
+    ],
+    "caption": "The Big Five are useful and well studied, but do not replace goals, identity, skills or contextual evidence."
+  },
+  "c03s03": {
+    "type": "compare",
+    "title": "Consistency answers one question",
+    "left": [
+      "Test–retest",
+      "Similar scores over time",
+      "Appropriate interval needed"
+    ],
+    "right": [
+      "Internal consistency",
+      "Related items in a scale",
+      "Not proof of one cause"
+    ],
+    "caption": "Different reliability estimates address different sources of consistency; none grants unrestricted validity."
+  },
+  "c03s03b": {
+    "type": "flow",
+    "title": "Build a validity argument",
+    "items": [
+      [
+        "Define",
+        "Construct and proposed use"
+      ],
+      [
+        "Collect",
+        "Relevant measurement evidence"
+      ],
+      [
+        "Evaluate",
+        "Alternatives and consequences"
+      ]
+    ],
+    "caption": "Validity supports a specified interpretation and use. Evidence for one setting may not support another."
+  },
+  "c03s04": {
+    "type": "compare",
+    "title": "Two sources see different things",
+    "left": [
+      "Self-report",
+      "Private experiences",
+      "Self-presentation limits"
+    ],
+    "right": [
+      "Informant report",
+      "Observed behavior",
+      "Context and access limits"
+    ],
+    "caption": "Disagreement can reveal different observation windows or measurement problems rather than one automatically correct account."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "A percentile needs a reference",
+    "items": [
+      [
+        "Score",
+        "A measurement with error"
+      ],
+      [
+        "Norms",
+        "A specified comparison group"
+      ],
+      [
+        "Interpretation",
+        "Relative position, not a fraction"
+      ]
+    ],
+    "caption": "A percentile is not the percentage of personality a person possesses, and extra decimal places do not remove uncertainty."
+  },
+  "c04s03": {
+    "type": "compare",
+    "title": "Two kinds of stability question",
+    "left": [
+      "Relative positions",
+      "Who is higher than whom?",
+      "Rank-order stability"
+    ],
+    "right": [
+      "Average levels",
+      "Has the group mean moved?",
+      "Mean-level change"
+    ],
+    "caption": "The same group can change in average level while retaining a similar relative ordering."
+  },
+  "c04s03b": {
+    "type": "compare",
+    "title": "Two developmental study designs",
+    "left": [
+      "Longitudinal",
+      "Same people over time",
+      "Watch attrition and change"
+    ],
+    "right": [
+      "Cross-sectional",
+      "Different age groups",
+      "Watch cohort differences"
+    ],
+    "caption": "Age-related differences and individual change require different comparisons; neither design is free of limitations."
+  },
+  "c04s04": {
+    "type": "branch",
+    "title": "A role and a trait can be related",
+    "start": "Organizing café shifts",
+    "left": "Selection into the role",
+    "right": "Experience within the role",
+    "caption": "Existing tendencies can influence role entry while experiences may also contribute to change. The branches show accounts to investigate."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Average trends leave individual variation",
+    "items": [
+      [
+        "Group estimate",
+        "A pattern across samples"
+      ],
+      [
+        "Individual path",
+        "May differ from the average"
+      ],
+      [
+        "Causal claim",
+        "Needs a relevant comparison"
+      ]
+    ],
+    "caption": "A developmental average is not a timetable everyone must follow or proof that one event caused a change."
+  },
+  "c05s03": {
+    "type": "compare",
+    "title": "Population variation is not an individual split",
+    "left": [
+      "Heritability estimate",
+      "Studied population",
+      "Model and conditions"
+    ],
+    "right": [
+      "Individual cause",
+      "Why this action occurred",
+      "Different evidence needed"
+    ],
+    "caption": "Heritability does not divide one person’s personality into genetic and environmental percentages."
+  },
+  "c05s03b": {
+    "type": "rows",
+    "title": "A twin comparison is model-based",
+    "items": [
+      [
+        "Compare",
+        "Patterns of similarity"
+      ],
+      [
+        "Assume",
+        "Environmental and genetic models"
+      ],
+      [
+        "Interpret",
+        "Contributions with uncertainty"
+      ]
+    ],
+    "caption": "Twin designs inform genetic contributions under assumptions. They do not identify a unique personality gene."
+  },
+  "c05s04": {
+    "type": "compare",
+    "title": "Genes and environments can relate differently",
+    "left": [
+      "Correlation",
+      "Exposure covaries",
+      "Who enters which setting?"
+    ],
+    "right": [
+      "Interaction",
+      "Effects depend on context",
+      "Does the effect differ?"
+    ],
+    "caption": "Gene–environment correlation and interaction answer distinct questions; neither should be inferred from one anecdote."
+  },
+  "c05s05": {
+    "type": "compare",
+    "title": "Inherited does not mean unchangeable",
+    "left": [
+      "Variation estimate",
+      "Differences within conditions",
+      "Not an intervention result"
+    ],
+    "right": [
+      "Specific change",
+      "Test a schedule or support",
+      "Measure relevant outcomes"
+    ],
+    "caption": "A genetic contribution to differences does not settle whether a changed environment can help."
+  },
+  "c06s03": {
+    "type": "flow",
+    "title": "Make the proposed pattern specific",
+    "items": [
+      [
+        "If",
+        "Equipment is unfamiliar"
+      ],
+      [
+        "Then",
+        "Leo seeks help"
+      ],
+      [
+        "Check",
+        "Repeat across relevant tasks"
+      ]
+    ],
+    "caption": "The fictional behavioral signature is a hypothesis about a meaningful situation feature, not a fixed label."
+  },
+  "c06s03b": {
+    "type": "compare",
+    "title": "Capability and consequence differ",
+    "left": [
+      "Self-efficacy",
+      "Can I perform this action?",
+      "Task and conditions matter"
+    ],
+    "right": [
+      "Outcome expectation",
+      "What would the action do?",
+      "Consequences matter"
+    ],
+    "caption": "Believing one can act differs from believing the action will produce a desired result. Actual skill also needs evidence."
+  },
+  "c06s04": {
+    "type": "flow",
+    "title": "A pattern can reinforce its own context",
+    "items": [
+      [
+        "Choose",
+        "Familiar repair tasks"
+      ],
+      [
+        "Practise",
+        "Gain more relevant experience"
+      ],
+      [
+        "Encounter",
+        "More similar requests"
+      ]
+    ],
+    "caption": "The sequence illustrates a possible feedback process. Choices are constrained, and every link needs evidence in a real case."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Different levels can complement each other",
+    "items": [
+      [
+        "Trait",
+        "Broad tendency"
+      ],
+      [
+        "Process",
+        "Belief, goal or skill"
+      ],
+      [
+        "Situation",
+        "Demands and opportunities"
+      ]
+    ],
+    "caption": "A broad trait summary and a social-cognitive process explanation answer related but different questions."
+  },
+  "c07s03": {
+    "type": "branch",
+    "title": "Same action, different possible aims",
+    "start": "Staying late",
+    "left": "Enjoy the repair",
+    "right": "Avoid criticism",
+    "caption": "The outward action alone does not reveal the motive. The story supplies fictional reasons to illustrate the distinction."
+  },
+  "c07s03b": {
+    "type": "compare",
+    "title": "Endorsement and pressure differ",
+    "left": [
+      "Autonomous",
+      "I endorse this purpose",
+      "Can include difficult work"
+    ],
+    "right": [
+      "Controlled",
+      "I must avoid disapproval",
+      "Pressure drives the action"
+    ],
+    "caption": "Autonomy concerns endorsement, not working alone. Motives can be mixed and vary over time."
+  },
+  "c07s04": {
+    "type": "flow",
+    "title": "Clarify before adding demands",
+    "items": [
+      [
+        "Ask",
+        "Goals and preferences"
+      ],
+      [
+        "Identify",
+        "Pressures and constraints"
+      ],
+      [
+        "Support",
+        "Feasible choices and resources"
+      ]
+    ],
+    "caption": "A support plan should be checked against participation and well-being, not attendance alone."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "An attendance count is not a motive measure",
+    "items": [
+      [
+        "Behavior",
+        "Hours at the café"
+      ],
+      [
+        "Experience",
+        "Endorsement or pressure"
+      ],
+      [
+        "Outcome",
+        "Sustainability and well-being"
+      ]
+    ],
+    "caption": "Motivational interpretations need relevant evidence. Extra hours cannot establish enjoyment by themselves."
+  },
+  "c08s03": {
+    "type": "rows",
+    "title": "The self can be studied at several levels",
+    "items": [
+      [
+        "Self-concept",
+        "Beliefs about oneself"
+      ],
+      [
+        "Self-esteem",
+        "Evaluation of worth"
+      ],
+      [
+        "Narrative identity",
+        "Meaning across life events"
+      ]
+    ],
+    "caption": "A trait score, a self-evaluation and a life narrative provide different kinds of information."
+  },
+  "c08s03b": {
+    "type": "compare",
+    "title": "A story can select a narrow sample",
+    "left": [
+      "Remembered theme",
+      "The unfinished project",
+      "A broad conclusion"
+    ],
+    "right": [
+      "Further evidence",
+      "Completed projects",
+      "Constraints and exceptions"
+    ],
+    "caption": "Adding context and exceptions can qualify a narrative without demanding forced optimism."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Keep sources and purposes visible",
+    "items": [
+      [
+        "Narrative",
+        "How experience is understood"
+      ],
+      [
+        "Behavior record",
+        "Events in a limited window"
+      ],
+      [
+        "Questionnaire",
+        "Structured trait measurement"
+      ]
+    ],
+    "caption": "No single source provides a complete person. Investigate what disagreements between sources mean."
+  },
+  "c08s05": {
+    "type": "compare",
+    "title": "Association is not a prescribed story",
+    "left": [
+      "Research association",
+      "Themes and outcomes",
+      "A pattern to interpret"
+    ],
+    "right": [
+      "Individual application",
+      "Meaning and circumstances",
+      "No required life narrative"
+    ],
+    "caption": "An association involving a narrative theme does not prove that imposing that story causes well-being."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Matching words may not match meaning",
+    "left": [
+      "Translated item",
+      "Wording in another language",
+      "Literal similarity"
+    ],
+    "right": [
+      "Equivalent measure",
+      "Comparable construct meaning",
+      "Needs empirical evidence"
+    ],
+    "caption": "Measurement comparability requires more than translation, including how behaviors and response scales are understood."
+  },
+  "c09s03b": {
+    "type": "overlap",
+    "title": "Group averages do not fix an individual",
+    "caption": "Conceptual overlapping distributions illustrate within-group variation. The curves are not measured cultural data or a claim about a particular population."
+  },
+  "c09s04": {
+    "type": "flow",
+    "title": "Check the reach of the evidence",
+    "items": [
+      [
+        "Sample",
+        "Who participated?"
+      ],
+      [
+        "Measure",
+        "How was it understood?"
+      ],
+      [
+        "Generalize",
+        "Which new setting is intended?"
+      ]
+    ],
+    "caption": "Coverage and measurement evidence set the scope of a conclusion. Local collaboration can expose gaps."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "A failed comparison can reveal a measure problem",
+    "items": [
+      [
+        "Population",
+        "Experiences and context"
+      ],
+      [
+        "Administration",
+        "Language and response format"
+      ],
+      [
+        "Interpretation",
+        "Test alternatives before ranking"
+      ]
+    ],
+    "caption": "A measurement problem does not establish that people lack traits, nor does it support a stereotype about a group."
+  },
+  "c10s03": {
+    "type": "compare",
+    "title": "Ask what the score adds",
+    "left": [
+      "Existing information",
+      "Skills and relevant record",
+      "Preferences and conditions"
+    ],
+    "right": [
+      "Additional measure",
+      "Validated for this purpose?",
+      "Useful incremental prediction?"
+    ],
+    "caption": "Incremental validity concerns added predictive information, not just whether a score correlates with an outcome somewhere."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "Match the decision to relevant evidence",
+    "items": [
+      [
+        "Define",
+        "Actual role requirements"
+      ],
+      [
+        "Offer",
+        "Preference and practice"
+      ],
+      [
+        "Review",
+        "Relevant task performance"
+      ]
+    ],
+    "caption": "A direct low-stakes work sample can answer a role question more closely than an unsupported broad label."
+  },
+  "c10s04": {
+    "type": "flow",
+    "title": "Keep descriptions revisable",
+    "items": [
+      [
+        "Describe",
+        "Tendency and evidence"
+      ],
+      [
+        "Qualify",
+        "Context and exceptions"
+      ],
+      [
+        "Revisit",
+        "New observations and goals"
+      ]
+    ],
+    "caption": "A bounded description leaves room for development and does not become a permanent exclusion."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "An association has practical limits",
+    "items": [
+      [
+        "Prediction",
+        "Average relation with error"
+      ],
+      [
+        "Cause",
+        "Requires further evidence"
+      ],
+      [
+        "Decision",
+        "Fairness, consent and relevance"
+      ]
+    ],
+    "caption": "Population associations do not validate an unrelated quiz or guarantee one individual’s outcome."
+  }
+}

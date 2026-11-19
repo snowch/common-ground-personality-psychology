@@ -1,0 +1,72 @@
+{
+  "1": {
+    "Personality": "Characteristic patterns of thought, feeling and behavior, and the processes associated with them.",
+    "Trait": "A relatively enduring tendency inferred from patterns across relevant occasions.",
+    "State": "A temporary condition or expression at a particular time.",
+    "Person–situation interaction": "Variation in how people respond to situations, rather than a single person or situation effect alone.",
+    "Experience sampling": "Repeated reports of experience or behavior collected during everyday life."
+  },
+  "2": {
+    "Big Five": "A framework of broad personality dimensions: extraversion, agreeableness, conscientiousness, negative emotionality and openness or open-mindedness.",
+    "Extraversion": "A broad dimension involving sociability, assertiveness and activity-related tendencies.",
+    "Agreeableness": "A broad dimension involving compassion, respectfulness and trust-related tendencies.",
+    "Conscientiousness": "A broad dimension involving organization, responsibility and productive effort.",
+    "Negative emotionality": "A broad tendency to experience unpleasant emotions; often measured under the name neuroticism.",
+    "Open-mindedness": "A broad dimension involving curiosity, imagination and receptivity to ideas; related to openness to experience.",
+    "Facet": "A narrower component of a broader trait dimension."
+  },
+  "3": {
+    "Reliability": "Consistency of scores under specified conditions and for a stated type of measurement.",
+    "Validity": "Evidence supporting a proposed interpretation and use of a score.",
+    "Construct": "An attribute or concept that a measure is intended to represent.",
+    "Self-report": "Information supplied by a person about their own experiences or behavior.",
+    "Informant report": "Information supplied by someone who observes or knows the person.",
+    "Percentile": "Relative position of a score within a specified reference distribution."
+  },
+  "4": {
+    "Rank-order stability": "Consistency in people’s relative positions on a measure over time.",
+    "Mean-level change": "Change in a group’s average score across time.",
+    "Longitudinal study": "A study that follows the same people across time.",
+    "Cohort": "A group sharing a historical period or other common time-linked experience.",
+    "Selection": "Processes through which personal tendencies influence which environments or roles people enter.",
+    "Socialization": "Processes through which experience and social environments contribute to development."
+  },
+  "5": {
+    "Heritability": "A model-based estimate of genetic contributions to observed variation within a specified population and set of conditions.",
+    "Temperament": "Early differences in reactivity and self-regulation.",
+    "Gene–environment correlation": "An association between genetic differences and exposure to environments.",
+    "Gene–environment interaction": "Variation in genetic or environmental effects depending on the other conditions.",
+    "Immutability": "Inability to change; it does not follow from genetic influence."
+  },
+  "6": {
+    "Behavioral signature": "A recurring pattern of responses to meaningful features of situations.",
+    "Self-efficacy": "A belief about one’s capability to carry out a specified action under stated conditions.",
+    "Outcome expectation": "A belief about the consequence that an action is likely to produce.",
+    "Reciprocal influence": "Processes through which personal factors, behavior and environments affect one another."
+  },
+  "7": {
+    "Motive": "A reason or process that directs and sustains action.",
+    "Goal": "An outcome a person is trying to reach.",
+    "Value": "A broader principle or priority regarded as important.",
+    "Autonomous motivation": "Motivation experienced as personally endorsed rather than externally or internally pressured.",
+    "Controlled motivation": "Motivation experienced as driven by pressure, obligation or contingent approval.",
+    "Autonomy": "A sense of meaningful endorsement or ownership of action."
+  },
+  "8": {
+    "Self-concept": "Beliefs and descriptions a person holds about themselves.",
+    "Self-esteem": "Evaluation of one’s own worth.",
+    "Narrative identity": "An evolving life story through which a person connects experience, continuity and meaning.",
+    "Overgeneralization": "Extending a conclusion beyond the evidence or situations that support it."
+  },
+  "9": {
+    "Measurement equivalence": "Evidence that a measure has sufficiently comparable meaning and functioning across the groups being compared.",
+    "Reference group": "The people or distribution used as the basis for a relative judgment or score.",
+    "Response style": "A tendency in how a person uses questionnaire response options, apart from the intended content.",
+    "Generalization": "Extending a conclusion beyond the observations or population directly studied."
+  },
+  "10": {
+    "Predictive validity": "Evidence that a score relates to an outcome relevant to its proposed use.",
+    "Incremental validity": "Additional predictive value beyond other information already available.",
+    "Determinism": "The assumption that a factor fixes an outcome; it does not follow from an average association."
+  }
+}

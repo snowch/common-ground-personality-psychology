@@ -1,0 +1,6 @@
+{
+  "shared_origin_offline_saves": "passed",
+  "both_courses_narration_offline": "passed",
+  "removing_one_preserves_the_other": "passed",
+  "cross_course_progress_messages_isolated": "passed"
+}
