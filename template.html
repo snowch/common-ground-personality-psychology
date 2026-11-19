@@ -289,7 +289,7 @@ function read(onlyQueue){
  stop();const current=++generation;const s=COURSE[state.c].slides[state.s];const queue=Array.isArray(onlyQueue)?onlyQueue.slice():narrationQueue(s);
  playbackInfo={queue,index:0,finished:false};updatePlaybackProgress();
  let i=0;
- function failed(){if(current!==generation)return;stop();$('#audioStatus').textContent='The recording could not play. Try Play narration again or read the page and exercise transcript.';}
+ function failed(){if(current!==generation)return;stop();$('#audioStatus').textContent='The recording could not play. Select Play narration to try again, or read the lesson on this page.';}
  function playNext(){
   if(current!==generation)return;
   if(i>=queue.length){playbackInfo.finished=true;updatePlaybackProgress();playing=false;paused=false;$('#read').textContent='Play again';$('#pause').disabled=true;$('#stop').disabled=true;$('#audioStatus').textContent='Narration complete.';return;}
