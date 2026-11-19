@@ -13,7 +13,8 @@ for c in course:
   steps+=1;assert re.fullmatch(fr'c{n:02d}s(?:0[1-8]|03b)',s['id'])
   assert s['id']not in expected;expected[s['id']]=s['text'];assert len(s['text'].split())<210
   if s['kind']in ['concept','evidence']:
-   research+=1;assert s['research']['sources'] and len(s['research']['sections'])>=2
+   research+=1;assert s['research']['sources']
+   assert all(section['heading'] and section['text'] and section['text'] not in s['text'] for section in s['research']['sections']),s['id']
    assert s['visual']in models and models[s['visual']]['caption']
   if 'quiz'in s:
    decisions+=1;q=s['quiz'];

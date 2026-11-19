@@ -2,7 +2,7 @@
   "title": "Try a new case",
   "caseTitle": "The community theatre",
   "subtitle": "An optional written transfer check after the ten chapters",
-  "intro": "Try this fictional case without your notes first. Allow about twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answer. Compare your reasoning with the suggestions after attempting the tasks.",
+  "intro": "Use this fictional case to try the ideas on a new problem. Set aside about 20–30 minutes. Answer the five tasks on paper or in a private notes app. Then open Compare with suggested reasoning and compare it with your answers.",
   "paragraphs": [
     "A community theatre assigns roles for a new production. An organizer wants to use a short online personality quiz to select front-of-house volunteers. The quiz report calls one volunteer an introvert and another a natural leader, but gives no scoring or validation information.",
     "A volunteer is quiet in the first full-cast meeting and animated when explaining familiar lighting equipment to two people. Another describes being disorganized years ago but now keeps a detailed rehearsal calendar. The organizer treats the first case as inconsistency and the second as proof that the theatre changed the person’s personality.",
@@ -28,7 +28,7 @@
         9
       ],
       "prompt": "List the measurement evidence needed before using the quiz or comparing translated scores. Explain why a group mean cannot settle one volunteer’s suitability.",
-      "answer": "Identify the construct, instrument, scoring, reliability, validity for this use and relevant norms. Translation needs evidence of comparable item meaning and scale functioning, not just matching words. Group means contain variation and do not identify an individual’s score, skill or preferences. A validated instrument elsewhere does not validate this short quiz."
+      "answer": "Identify the construct, instrument, scoring, reliability, validity for this use and relevant norms. Translation needs evidence of comparable item meaning and scale functioning, not just matching words. Variation within each group leaves an individual’s score, skills and preferences uncertain. A validated instrument elsewhere does not validate this short quiz."
     },
     {
       "title": "Examine change and inheritance",
