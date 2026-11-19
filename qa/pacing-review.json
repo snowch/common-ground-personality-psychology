@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c05s04",
+    "peak": 0.56634521484375,
+    "longest_internal_gap_seconds": 0.82,
+    "interpretation": "ASR words matched; word rate is below the automated band in text containing long technical terms. No excessive internal gap or clipping found. Not a human listening approval."
+  },
+  {
+    "id": "c07s03b",
+    "peak": 0.510101318359375,
+    "longest_internal_gap_seconds": 0.82,
+    "interpretation": "ASR words matched; word rate is below the automated band in text containing long technical terms. No excessive internal gap or clipping found. Not a human listening approval."
+  }
+]
