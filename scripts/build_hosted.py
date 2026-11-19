@@ -22,6 +22,7 @@ def hosted(src,dst,prefix):
  s=s.replace('The recordings are included in this deck and work offline.','The recordings load when you press Play narration. Use Offline to save the whole course in this browser.')
  s=s.replace('The deck embeds prerecorded Kokoro','The course plays prerecorded Kokoro')
  s=s.replace('Quizzes and embedded narration work offline. External reading requires a connection.','Use Offline to save all ten chapters, recordings and companions in this browser. External reading websites require a connection.')
+ s=s.replace('Open the PDF included in your download package to read or print a static copy.','<a href="'+prefix+'downloads.html">Open downloads</a> for chapter PDFs or the full deck.')
  dst.write_text(s)
 hosted(P/'index.html',D/'index.html','./')
 shutil.copy(P/'study-guide.html',D/'study-guide.html')
